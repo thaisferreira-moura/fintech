@@ -111,7 +111,70 @@ body{
     background-color: #8b5cf6;
 }
 
-/* IMAGEM/CARDS */
+.financial-control{
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    gap: 80px;
+
+    padding: 120px 10%;
+
+    background-color: white;
+}
 
 
+.financial-image img{
+    width: 500px;
+}
 
+
+.financial-text{
+    width: 500px;
+}
+
+
+.financial-text span{
+    color: #8B5CF6;
+
+    font-weight: 700;
+
+    letter-spacing: 2px;
+}
+.financial-text h1{
+    font-size: 4rem;
+    line-height: 1.1;
+    margin-bottom: 20px;
+}
+
+.hero-text h1 span{
+    color: #8b5cf6;
+}
+
+.financial-text{
+    width: 550px;
+}
+
+
+.financial-text h1{
+    color: #111827;
+
+    font-size: 3rem;
+
+    line-height: 1.2;
+
+    margin-bottom: 30px;
+}
+
+
+.financial-text p{
+    color: #111827;
+
+    line-height: 1.9;
+
+    margin-bottom: 22px;
+
+    font-size: 1rem;
+}
