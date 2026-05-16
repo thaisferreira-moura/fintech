@@ -178,3 +178,57 @@ body{
 
     font-size: 1rem;
 }
+
+.growth{
+    width: 100%;
+
+    background-color: #121139;
+
+    padding: 120px 10%;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+}
+
+
+.growth-text{
+    max-width: 700px;
+
+    margin-bottom: 60px;
+}
+
+
+.growth-text h1{
+    font-size: 4rem;
+
+    line-height: 1.1;
+
+    color: white;
+
+    margin-bottom: 30px;
+}
+
+
+.growth-text span{
+    color: #8B5CF6;
+}
+
+
+.growth-text p{
+    color: #B6BBC8;
+
+    line-height: 1.9;
+
+    font-size: 1rem;
+}
+
+
+.growth-image img{
+    width: 100%;
+    max-width: 900px;
+}
